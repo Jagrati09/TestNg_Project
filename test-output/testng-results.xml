@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27866" started-at="2020-05-14T07:17:07Z" finished-at="2020-05-14T07:17:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27866" started-at="2020-05-14T07:17:07Z" finished-at="2020-05-14T07:17:35Z">
+      <class name="com.jagrati.testng.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jagrati.testng.LoginTest@c87b21]" name="setUp" is-config="true" duration-ms="8298" started-at="2020-05-14T12:47:07Z" finished-at="2020-05-14T12:47:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="gmailLogin()[pri:0, instance:com.jagrati.testng.LoginTest@c87b21]" name="gmailLogin" duration-ms="17600" started-at="2020-05-14T12:47:15Z" finished-at="2020-05-14T12:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmailLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.jagrati.testng.LoginTest@c87b21]" name="tearDown" is-config="true" duration-ms="1867" started-at="2020-05-14T12:47:33Z" finished-at="2020-05-14T12:47:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.jagrati.testng.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
